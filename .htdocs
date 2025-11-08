@@ -1,0 +1,5 @@
+# Imposta 'index.html' come file predefinito da servire
+# quando un visitatore accede a una directory (es. www.tuodominio.com/).
+# Se 'index.html' esiste, verrà mostrato automaticamente.
+
+DirectoryIndex index.html
